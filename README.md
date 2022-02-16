@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=MILKA-TOP&color=blueviolet)
 
 
-💻 Hi, I am a 2nd year 🎓 *[ITMO Computer Technology]* 🎓 student studying ***Android development*** and ***Java / Kotlin***.
+💻 Hi, I am a 2nd year 🎓 *[ITMO Computer Science]* 🎓 student studying ***Android development*** and ***Java / Kotlin***.
 
 ✨ Here you can find my various pet-projects: Mobile apps, telegram bots, labs and homeworks assignments from the courses 😉
 
