@@ -1,9 +1,8 @@
-![](img/header_github.png)
-
 ![](https://komarev.com/ghpvc/?username=MILKA-TOP&color=blueviolet)
 
+🎓 *[ITMO Computer Science]* 🎓 student studying 
 
-💻 Hi, I am a 3rd year 🎓 *[ITMO Computer Science]* 🎓 student studying ***Android development*** and ***Java / Kotlin***.
+💻 ***Android development*** and ***Java / Kotlin***.
 
 ✨ Here you can find my various pet-projects: Mobile apps, telegram bots, labs and homeworks assignments from the courses 😉
 
